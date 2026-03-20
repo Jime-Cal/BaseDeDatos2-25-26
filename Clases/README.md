@@ -1,4 +1,4 @@
-[x] **[Introducción](introduccion.md)**
+- [x] **[Introducción](introduccion.md)**
 
 - [x] Primer Parcial
   
